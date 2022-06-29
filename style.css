@@ -1,0 +1,8 @@
+/* *{ border: 1px pink solid} */
+body{background-color: white;}
+.nav-pills .nav-link{ background-color: white;}
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link{background-color: grey;}
+.nav-link{color: grey;}
+.nav-link:focus, .nav-link:hover {color: grey;}
+.btn-secondary:hover{background-color: white;}
+.btn-btn-success{align-items: right;} 
